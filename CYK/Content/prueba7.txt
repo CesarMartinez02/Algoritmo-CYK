@@ -1,0 +1,13 @@
+11
+S -> AB
+A -> BC
+B -> CD
+C -> DE
+D -> EF
+E -> FG
+F -> GH
+G -> HI
+H -> IJ
+I -> a
+J -> b
+ababaababbaababbaabba

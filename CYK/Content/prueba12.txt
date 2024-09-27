@@ -1,0 +1,14 @@
+12
+S -> AB
+A -> BC
+B -> CD
+C -> DE
+D -> EF
+E -> a
+F -> b
+B -> GH
+G -> IJ
+H -> a
+I -> b
+J -> a
+aabbaaabbababb

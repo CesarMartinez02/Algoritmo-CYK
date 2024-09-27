@@ -1,0 +1,12 @@
+10
+S -> A B
+A -> C D
+B -> E F
+C -> a
+D -> G H
+E -> c
+F -> G I
+G -> b
+H -> d
+I -> e
+abcde

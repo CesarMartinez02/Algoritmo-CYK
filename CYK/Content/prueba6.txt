@@ -1,0 +1,8 @@
+12
+S -> A B
+A -> a | X Y
+B -> c | Y Z
+X -> a
+Y -> b
+Z -> c
+abc

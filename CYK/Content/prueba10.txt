@@ -1,0 +1,10 @@
+7
+S -> AB
+A -> CD
+B -> EF
+C -> a
+D -> b
+E -> a
+F -> b
+aababb
+
